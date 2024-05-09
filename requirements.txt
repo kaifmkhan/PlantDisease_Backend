@@ -6,3 +6,4 @@ pillow
 tensorflow-serving-api==2.15.0
 matplotlib
 numpy
+gunicorn
